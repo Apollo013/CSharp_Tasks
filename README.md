@@ -13,7 +13,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Feature|
 |-------|
 |Task|
-|Task<TResult|
+|Task<TResult>|
 |Task.Run|
 |Task.Factory.StartNew|
 |Task.Wait|

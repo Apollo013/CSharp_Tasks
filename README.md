@@ -7,6 +7,8 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task Creation | Demonstrates several ways for creating a task. |
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, cancelling continuations, and more. |
 |Child Tasks | Demonstrates attached & detached child tasks |
+|Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten method, Task Exception Property |
+
 ---
 
 ####Language Features
@@ -17,6 +19,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task.Run|
 |Task.Factory.StartNew|
 |Task.Wait|
+|Task.WaitAll|
 |Task.ContinueWith|
 |async & await|
 |Func< Task,TResult >|
@@ -24,7 +27,10 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Lamda Expressions|
 |Anonymous & named delagates|
 |TaskContinuationOptions|
+|TaskCreationOptions|
+|AggregateException|
 |CancellationTokenSource|
+|Task Exception Property|
 
 
 ---
@@ -35,3 +41,4 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [Task Parallelism (Task Parallel Library)]( https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx) | MSDN | Website |
 | [Chaining Tasks by Using Continuation Tasks]( https://msdn.microsoft.com/en-us/library/ee372288(v=vs.110).aspx) | MSDN | Website |
 | Async in C# 5.0| Alex Davies | Published By O'Reilly |
+

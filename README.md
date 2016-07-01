@@ -4,7 +4,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 ####Features
 |Feature | Description |
 |--------|------------|
-|Task Creation | Demonstrates several ways for creating a thread. |
+|Task Creation | Demonstrates several ways for creating a task. |
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, cancelling continuations, and more. |
 
 ---

@@ -6,7 +6,8 @@ namespace CSharpTasks
     {
         public static void Main(string[] args)
         {
-            A_CreatingTasks.Run();
+            //A_CreatingTasks.Run();
+            B_TaskChaining.Run();
         }
     }
 }

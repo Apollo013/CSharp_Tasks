@@ -8,7 +8,9 @@ namespace CSharpTasks
         {
             //A_CreatingTasks.Run();
             //B_TaskChaining.Run();
-            C_ChildTasks.Run();
+            //C_ChildTasks.Run();
+            D_ExceptionHandling.Run();
+
         }
     }
 }

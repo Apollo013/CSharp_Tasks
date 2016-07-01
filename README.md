@@ -8,6 +8,18 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked and more. Features ContinueWith Action< Task >, ContinueWith Func< Task,TResult >, and 'TaskContinuationOptions'. |
 
 ---
+
+####Method & Struct Features
+|Feature|
+|-------|
+|Task.Run|
+|Task.Factory.StartNew|
+|Task.Wait|
+|Task.ContinueWith|
+|Func|
+|Action|
+
+---
 ####Resources
 | Title | Source | Type |
 |--------------|---------|--------|

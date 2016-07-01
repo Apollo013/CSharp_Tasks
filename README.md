@@ -8,6 +8,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, cancelling continuations, and more. |
 |Child Tasks | Demonstrates attached & detached child tasks |
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
+|Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
 
 ---
 
@@ -31,7 +32,9 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |AggregateException|
 |AggregateException Handle method|
 |AggregateException Flatten method|
+|OperationCanceledException|
 |CancellationTokenSource|
+|CancellationTokenSource CancelAfter|
 |Task Exception Property|
 
 

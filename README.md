@@ -9,6 +9,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Child Tasks | Demonstrates attached & detached child tasks |
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
 |Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
+|Returning Values| Several methods that demonstrates how to return values from a Task. Also include some PLINQ for file access. |
 
 ---
 
@@ -19,6 +20,8 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task< TResult >|
 |Task.Run|
 |Task.Factory.StartNew|
+|Task< TResult >.Factory.StartNew|
+|Task.Result|
 |Task.Wait|
 |Task.WaitAll|
 |Task.ContinueWith|

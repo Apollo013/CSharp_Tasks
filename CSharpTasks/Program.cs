@@ -10,7 +10,8 @@ namespace CSharpTasks
             //B_TaskChaining.Run();
             //C_ChildTasks.Run();
             //D_ExceptionHandling.Run();
-            E_TaskCancellation.Run();
+            //E_TaskCancellation.Run();
+            F_ReturningValues.Run();
         }
     }
 }

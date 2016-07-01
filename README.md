@@ -23,6 +23,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Action< Task >|
 |Lamda Expressions|
 |Anonymous & named delagates|
+|TaskContinuationOptions|
 
 ---
 ####Resources

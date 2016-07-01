@@ -24,6 +24,8 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Lamda Expressions|
 |Anonymous & named delagates|
 |TaskContinuationOptions|
+|CancellationTokenSource|
+
 
 ---
 ####Resources

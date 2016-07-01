@@ -1,7 +1,6 @@
 ﻿using CSharpTasks.Exceptions;
 using CSharpTasks.Utilities;
 using System;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace CSharpTasks.Examples
@@ -52,7 +51,7 @@ namespace CSharpTasks.Examples
 
         private static void TaskExceptionProperty()
         {
-            PrintUtility.PrintSubTitle("SIMPLE AGGREGATED EXCEPTION HANDLING");
+            PrintUtility.PrintSubTitle("TASK EXCEPTION PROPERTY");
 
             var t2 = Task.Run(() =>
                 {
@@ -77,6 +76,8 @@ namespace CSharpTasks.Examples
 
         private static void AggregateExceptionFlattenMethod()
         {
+            PrintUtility.PrintSubTitle("AGGREGATED EXCEPTION - FLATTEN METHOD");
+
             // Parent Task
             var t3 = Task.Factory.StartNew(() =>
             {
@@ -117,7 +118,7 @@ namespace CSharpTasks.Examples
 
         private static void AggregateExceptionHandleMethod()
         {
-            PrintUtility.PrintSubTitle("SIMPLE AGGREGATED EXCEPTION HANDLING");
+            PrintUtility.PrintSubTitle("AGGREGATED EXCEPTION - HANDLE METHOD");
 
             var t4 = Task.Run(() =>
             {

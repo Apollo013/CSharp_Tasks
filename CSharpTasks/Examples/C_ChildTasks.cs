@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSharpTasks.Examples
 {
+    /// <summary>
+    /// Attached & Detached Child Tasks
+    /// </summary>
     public class C_ChildTasks
     {
         public static void Run()

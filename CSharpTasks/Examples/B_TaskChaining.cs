@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSharpTasks.Examples
 {
+    /// <summary>
+    /// Demonstrates ContinueWith
+    /// </summary>
     public class B_TaskChaining
     {
         public static void Run()

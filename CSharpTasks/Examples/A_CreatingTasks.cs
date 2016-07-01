@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace CSharpTasks.Examples
 {
+    /// <summary>
+    /// Demonstrates several ways in which to create and run a task
+    /// </summary>
     public class A_CreatingTasks
     {
         public static void Run()

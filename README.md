@@ -4,20 +4,25 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 ####Features
 |Feature | Description |
 |--------|------------|
-|Task Creation | Demonstrates several ways to start a thread. Features Task.Factory.StartNew, Task.Run, Task.Wait, Action Delegate, Anonymous Delegate, lamda experessions, async & await. |
-|Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked and more. Features ContinueWith Action< Task >, ContinueWith Func< Task,TResult >, and 'TaskContinuationOptions'. |
+|Task Creation | Demonstrates several ways for creating a thread. |
+|Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, and more. |
 
 ---
 
-####Method & Struct Features
+####Language Features
 |Feature|
 |-------|
+|Task|
+|Task<TResult|
 |Task.Run|
 |Task.Factory.StartNew|
 |Task.Wait|
 |Task.ContinueWith|
-|Func|
-|Action|
+|async & await|
+|Func< Task,TResult >|
+|Action< Task >|
+|Lamda Expressions|
+|Anonymous & named delagates|
 
 ---
 ####Resources

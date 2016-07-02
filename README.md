@@ -39,6 +39,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |CancellationTokenSource|
 |CancellationTokenSource CancelAfter|
 |Task Exception Property|
+|System.IO.Directory.GetFiles|
 
 
 ---
@@ -49,5 +50,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [Task Parallelism (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx) | MSDN | Website |
 | [Chaining Tasks by Using Continuation Tasks](https://msdn.microsoft.com/en-us/library/ee372288(v=vs.110).aspx) | MSDN | Website |
 | [Exception Handling (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd997415(v=vs.110).aspx) | MSDN | Website |
+| [How to: Return a Value from a Task)](https://msdn.microsoft.com/en-us/library/dd537613%28v=vs.110%29.aspx) | MSDN | Website |
+| [Task Cancellation)](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) | MSDN | Website |
 | Async in C# 5.0| Alex Davies | Published By O'Reilly |
 

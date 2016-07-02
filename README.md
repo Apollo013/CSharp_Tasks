@@ -21,6 +21,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task.Run|
 |Task.Factory.StartNew|
 |Task< TResult >.Factory.StartNew|
+|Task.FromResult|
 |Task.Result|
 |Task.Wait|
 |Task.WaitAll|
@@ -41,6 +42,9 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task Exception Property|
 |System.IO.Directory.GetFiles|
 |Timer|
+|Stopwatch|
+|ConcurrentDictionary|
+|HttpClient|
 
 
 ---

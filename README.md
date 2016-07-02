@@ -1,5 +1,5 @@
 # CSharp_Tasks
-Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples include file system access and downloading from the web.
+Demonstrates Asynchronous Programming with Tasks. Examples include file system access and downloading from the web.
 ---
 ####Features
 |Feature | Description |

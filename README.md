@@ -6,7 +6,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |--------|------------|
 |Task Creation | Demonstrates several ways for creating a task. |
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, cancelling continuations, and more. |
-|Child Tasks | Demonstrates attached & detached child tasks |
+|Child Tasks | Demonstrates attached & detached child tasks with 'TaskCreationOptions'|
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
 |Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
 |Returning Values| Several methods that demonstrates how to return values from a Task. Also include some PLINQ for file access. |

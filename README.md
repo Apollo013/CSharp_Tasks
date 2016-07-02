@@ -64,5 +64,6 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [How to: Create Pre-Computed Tasks](https://msdn.microsoft.com/en-us/library/hh228607(v=vs.110).aspx) |  | MSDN |
 | [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) |  | MSDN |
 | [Attached and Detached Child Tasks](https://msdn.microsoft.com/en-us/library/dd997417(v=vs.110).aspx)| | MSDN |
+| [Task Parallelism In Multithreading](http://www.c-sharpcorner.com/UploadFile/1c8574/task-parallelism-in-multithreading/)| Gul Md Ershad | C# Corner |
 
 

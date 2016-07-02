@@ -6,9 +6,10 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |--------|------------|
 |Task Creation | Demonstrates several ways for creating a task. |
 |Task Chaining | Examples include passing data from the antecedent to the continuation, specifying the precise conditions under which the continuation will be invoked or not invoked, cancelling continuations, and more. |
-|Child Tasks | Demonstrates attached & detached child tasks |
+|Child Tasks | Demonstrates attached & detached child tasks with 'TaskCreationOptions'|
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
 |Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
+|Returning Values| Several methods that demonstrates how to return values from a Task. Also include some PLINQ for file access. |
 
 ---
 
@@ -19,6 +20,8 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Task< TResult >|
 |Task.Run|
 |Task.Factory.StartNew|
+|Task< TResult >.Factory.StartNew|
+|Task.Result|
 |Task.Wait|
 |Task.WaitAll|
 |Task.ContinueWith|
@@ -36,6 +39,8 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |CancellationTokenSource|
 |CancellationTokenSource CancelAfter|
 |Task Exception Property|
+|System.IO.Directory.GetFiles|
+|Timer|
 
 
 ---
@@ -46,5 +51,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [Task Parallelism (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx) | MSDN | Website |
 | [Chaining Tasks by Using Continuation Tasks](https://msdn.microsoft.com/en-us/library/ee372288(v=vs.110).aspx) | MSDN | Website |
 | [Exception Handling (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd997415(v=vs.110).aspx) | MSDN | Website |
+| [How to: Return a Value from a Task](https://msdn.microsoft.com/en-us/library/dd537613%28v=vs.110%29.aspx) | MSDN | Website |
+| [Task Cancellation](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) | MSDN | Website |
 | Async in C# 5.0| Alex Davies | Published By O'Reilly |
 

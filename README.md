@@ -46,7 +46,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Stopwatch|
 |ConcurrentDictionary|
 |HttpClient|
-
+|FileStream|
 
 ---
 ####Resources
@@ -58,5 +58,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [Exception Handling (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd997415(v=vs.110).aspx) | MSDN | Website |
 | [How to: Return a Value from a Task](https://msdn.microsoft.com/en-us/library/dd537613%28v=vs.110%29.aspx) | MSDN | Website |
 | [Task Cancellation](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) | MSDN | Website |
+| [How to: Create Pre-Computed Tasks](https://msdn.microsoft.com/en-us/library/hh228607(v=vs.110).aspx) | MSDN | Website |
+| [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) | MSDN | Website |
 | Async in C# 5.0| Alex Davies | Published By O'Reilly |
 

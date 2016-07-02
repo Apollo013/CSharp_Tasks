@@ -10,6 +10,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
 |Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
 |Returning Values| Several methods that demonstrates how to return values from a Task. Also include some PLINQ for file access. |
+|Pre-Computed Tasks| Demonstrates how to use the Task.FromResult<TResult> method to retrieve the results of asynchronous download operations that are held in a cache.|
 
 ---
 

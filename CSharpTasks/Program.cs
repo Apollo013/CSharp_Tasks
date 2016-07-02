@@ -12,7 +12,8 @@ namespace CSharpTasks
             //D_ExceptionHandling.Run();
             //E_TaskCancellation.Run();
             //F_ReturningValues.Run();
-            G_PreComputedTasks.Run();
+            //G_PreComputedTasks.Run();
+            I_FileAccess.Run();
         }
     }
 }

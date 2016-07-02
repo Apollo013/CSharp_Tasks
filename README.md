@@ -51,16 +51,17 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 
 ---
 ####Resources
-| Title | Source | Type |
+| Title | Author | Publisher |
 |--------------|---------|--------|
+| Async in C# 5.0| Alex Davies | O'Reilly |
+| Pro C# 5.0 and the .NET 4.5 Framework| Andrew Troelsen | APRESS |
 | [Walkthrough: Accessing the Web by Using async and await (C#)](https://msdn.microsoft.com/en-us/library/mt674891.aspx)| MSDN | Website |
-| [Task Parallelism (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx) | MSDN | Website |
-| [Chaining Tasks by Using Continuation Tasks](https://msdn.microsoft.com/en-us/library/ee372288(v=vs.110).aspx) | MSDN | Website |
-| [Exception Handling (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd997415(v=vs.110).aspx) | MSDN | Website |
-| [How to: Return a Value from a Task](https://msdn.microsoft.com/en-us/library/dd537613%28v=vs.110%29.aspx) | MSDN | Website |
-| [Task Cancellation](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) | MSDN | Website |
-| [How to: Create Pre-Computed Tasks](https://msdn.microsoft.com/en-us/library/hh228607(v=vs.110).aspx) | MSDN | Website |
-| [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) | MSDN | Website |
-| Async in C# 5.0| Alex Davies | Published By O'Reilly |
-| Pro C# 5.0 and the .NET 4.5 Framework| Andrew Troelsen | Published By APRESS |
+| [Task Parallelism (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd537609(v=vs.110).aspx) | MSDN | MSDN |
+| [Chaining Tasks by Using Continuation Tasks](https://msdn.microsoft.com/en-us/library/ee372288(v=vs.110).aspx) | MSDN | MSDN |
+| [Exception Handling (Task Parallel Library)](https://msdn.microsoft.com/en-us/library/dd997415(v=vs.110).aspx) | MSDN | MSDN |
+| [How to: Return a Value from a Task](https://msdn.microsoft.com/en-us/library/dd537613%28v=vs.110%29.aspx) | MSDN | MSDN |
+| [Task Cancellation](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) | MSDN | MSDN |
+| [How to: Create Pre-Computed Tasks](https://msdn.microsoft.com/en-us/library/hh228607(v=vs.110).aspx) | MSDN | MSDN |
+| [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) | MSDN | MSDN |
+
 

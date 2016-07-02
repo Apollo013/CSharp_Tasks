@@ -40,6 +40,7 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 |CancellationTokenSource CancelAfter|
 |Task Exception Property|
 |System.IO.Directory.GetFiles|
+|Timer|
 
 
 ---

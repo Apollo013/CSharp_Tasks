@@ -63,5 +63,6 @@ Demonstrates Asynchronous &amp; Parallel Programming with Tasks. Examples includ
 | [Task Cancellation](https://msdn.microsoft.com/en-us/library/dd997396%28v=vs.110%29.aspx) |  | MSDN |
 | [How to: Create Pre-Computed Tasks](https://msdn.microsoft.com/en-us/library/hh228607(v=vs.110).aspx) |  | MSDN |
 | [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) |  | MSDN |
+| [Attached and Detached Child Tasks](https://msdn.microsoft.com/en-us/library/dd997417(v=vs.110).aspx)| | MSDN |
 
 

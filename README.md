@@ -9,7 +9,7 @@ Demonstrates Asynchronous Programming with Tasks. Include file system and web ac
 |Child Tasks | Demonstrates attached & detached child tasks with 'TaskCreationOptions'|
 |Exception Handling | Demonstrates attached & detached children exception handling, AggregateException Handling, AggregateException Flatten & handle methods, Task Exception Property |
 |Task Cancellation| A couple of examples that demonstrates how to handle cancelling a task |
-|Returning Values| Several methods that demonstrates how to return values from a Task. Also include some PLINQ for file access. |
+|Returning Values| Several methods that demonstrates how to return values from a Task. Also includes some PLINQ for file access. |
 |Pre-Computed Tasks| Demonstrates how to use the Task.FromResult<TResult> method to retrieve the results of asynchronous download operations that are held in a cache.|
 |Async & Await| Example demonstrates file access using async and await |
 

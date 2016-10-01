@@ -51,7 +51,7 @@ Demonstrates Asynchronous Programming with Tasks. Include file system and web ac
 
 ---
 ####Resources
-| Title | Author | Publisher |
+| Title | Author | Publisher / Website |
 |--------------|---------|--------|
 | Async in C# 5.0| Alex Davies | O'Reilly |
 | Pro C# 5.0 and the .NET 4.5 Framework| Andrew Troelsen | APRESS |

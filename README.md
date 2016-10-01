@@ -65,5 +65,5 @@ Demonstrates Asynchronous Programming with Tasks. Include file system and web ac
 | [Using Async for File Access (C#)](https://msdn.microsoft.com/en-us/library/mt674879.aspx) |  | MSDN |
 | [Attached and Detached Child Tasks](https://msdn.microsoft.com/en-us/library/dd997417(v=vs.110).aspx)| | MSDN |
 | [Task Parallelism In Multithreading](http://www.c-sharpcorner.com/UploadFile/1c8574/task-parallelism-in-multithreading/)| Gul Md Ershad | C# Corner |
-
+|[C# – Race conditions and how to avoid it ?](http://www.csharpstar.com/csharp-race-conditions-in-threading/)| | Csharpstar |
 
